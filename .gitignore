@@ -1,0 +1,77 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Environment variables
+.env
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+dist/
+
+# Optional npm cache directory
+.npm
+.eslintcache
+
+# Java (Spring Boot)
+target/
+*.war
+*.ear
+*.class
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+build/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# MongoDB
+*.log
+*.lock
+*.pid
+*.seed
+*.tgz
+config/
+mongod.cfg
+mongod.conf
